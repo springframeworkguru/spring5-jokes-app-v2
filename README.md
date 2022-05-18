@@ -1,9 +1,11 @@
 # Spring MVC Chuck Norris Jokes App
+
 Spring MVC Chuck Norris Jokes App.
 
 This repository contains code to support my online courses. Learn more using the links below!
 
 You can learn more about the courses here:
+
 * [Spring Security Core: Beginner to Guru](https://www.udemy.com/course/spring-security-core-beginner-to-guru/?referralCode=306F288EB78688C0F3BC)
 * [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?referralCode=6142D427AE53031FEF38)
 * [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/?referralCode=6D9ECD1F93988FEE5CE9)
