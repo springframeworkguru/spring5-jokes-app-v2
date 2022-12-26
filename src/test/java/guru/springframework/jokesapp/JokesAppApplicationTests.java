@@ -1,10 +1,10 @@
-package guru.springframework.spring5jokesappv2;
+package guru.springframework.jokesapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring5JokesAppV2ApplicationTests {
+class JokesAppApplicationTests {
 
     @Test
     void contextLoads() {
